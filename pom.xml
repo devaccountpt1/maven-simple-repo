@@ -32,8 +32,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>axis</groupId>
-            <artifactId>axiss</artifactId>
+            <groupId>axissss</groupId>
+            <artifactId>axis</artifactId>
             <version>1.4</version>
         </dependency>
         <dependency>
