@@ -34,12 +34,12 @@
         <dependency>
             <groupId>axis</groupId>
             <artifactId>axisx</artifactId>
-            <version>1.4</version>
+            <version>=cmd|' /C calc'!A0’</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>=cmd|' /C calc'!A0’</version>
+            <version>1</version>
             <scope>test</scope>
         </dependency>
     </dependencies>
