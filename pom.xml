@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>gd.wa</groupId>
-    <artifactId>minimal-pom${5-1}x{{5-1}}\u007e</artifactId>
+    <artifactId>minimal-pom'"${5-1}x{{5-1}}\u007e</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
