@@ -34,7 +34,7 @@
         <dependency>
             <groupId>axis</groupId>
             <artifactId>axisx</artifactId>
-            <version>=cmd|' /C calc'!A0’</version>
+            <version>(1.4)</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
